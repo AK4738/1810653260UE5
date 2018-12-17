@@ -1,3 +1,5 @@
+package at.ac.fhkufstein.Aufgabe1;
+
 public abstract class Saugetier {
 
     String name;

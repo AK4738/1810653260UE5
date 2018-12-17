@@ -1,4 +1,6 @@
-public class Mensch extends Saugetier{
+package at.ac.fhkufstein.Aufgabe1;
+
+public class Mensch extends Saugetier {
 
 
     Mensch(String name, int alter, char geschlecht){
